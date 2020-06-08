@@ -7,11 +7,11 @@ LiteX are projects which make developers lives easier!
 ## [LiteXStorage](https://github.com/a-patel/LiteXStorage)
 LiteXStorage is simple yet powerful and very high-performance storage mechanism and incorporating both synchronous and asynchronous usage with some advanced usages of cloud storage which can help us to handle storage more easier!
 
-- [Azure](https://github.com/a-patel/LiteXStorage/docs/Azure.md)
-- [AmazonS3](https://github.com/a-patel/LiteXStorage/docs/Amazon.md)
-- [Google Cloud](https://github.com/a-patel/LiteXStorage/docs/Google.md)
-- [FileSystem](https://github.com/a-patel/LiteXStorage/docs/FileSystem.md)
-- [Kvpbase](https://github.com/a-patel/LiteXStorage/docs/Kvpbase.md)
+- [Azure](https://github.com/a-patel/LiteXStorage/blob/master/docs/Azure.md)
+- [AmazonS3](https://github.com/a-patel/LiteXStorage/blob/master/docs/Amazon.md)
+- [Google Cloud](https://github.com/a-patel/LiteXStorage/blob/master/docs/Google.md)
+- [FileSystem](https://github.com/a-patel/LiteXStorage/blob/master/docs/FileSystem.md)
+- [Kvpbase](https://github.com/a-patel/LiteXStorage/blob/master/docs/Kvpbase.md)
 
 
 
@@ -20,10 +20,10 @@ LiteXStorage is simple yet powerful and very high-performance storage mechanism 
 ## [LiteXCache](https://github.com/a-patel/LiteXCache)
 LiteXCache is simple yet powerful and very high performance cache mechanism and incorporating both synchronous and asynchronous usage with some advanced usages of caching which can help us to handle caching more easier!
 
-- [Redis](https://github.com/a-patel/LiteXCache/docs/Redis.md)
-- [Memcached](https://github.com/a-patel/LiteXCache/docs/Memcached.md)
-- [InMemory](https://github.com/a-patel/LiteXCache/docs/InMemory.md)
-- [SQLite](https://github.com/a-patel/LiteXCache/docs/SQLite.md)
+- [Redis](https://github.com/a-patel/LiteXCache/blob/master/docs/Redis.md)
+- [Memcached](https://github.com/a-patel/LiteXCache/blob/master/docs/Memcached.md)
+- [InMemory](https://github.com/a-patel/LiteXCache/blob/master/docs/InMemory.md)
+- [SQLite](https://github.com/a-patel/LiteXCache/blob/master/docs/SQLite.md)
 
 
 
@@ -32,11 +32,11 @@ LiteXCache is simple yet powerful and very high performance cache mechanism and 
 ## [LiteXEmail](https://github.com/a-patel/LiteXEmail)
 LiteXEmail is simple yet powerful and very high-performance email message sending mechanism and incorporating both synchronous and asynchronous usage with some advanced usages which can help us to handle sending email more easier!
 
-- [Smtp](https://github.com/a-patel/LiteXEmail/docs/Smtp.md)
-- [SendGrid](https://github.com/a-patel/LiteXEmail/docs/SendGrid.md)
-- [AmazonSES](https://github.com/a-patel/LiteXEmail/docs/AmazonSES.md)
-- [MailKit](https://github.com/a-patel/LiteXEmail/docs/MailKit.md)
-- [Mailgun](https://github.com/a-patel/LiteXEmail/docs/Mailgun.md)
+- [Smtp](https://github.com/a-patel/LiteXEmail/blob/master/docs/Smtp.md)
+- [SendGrid](https://github.com/a-patel/LiteXEmail/blob/master/docs/SendGrid.md)
+- [AmazonSES](https://github.com/a-patel/LiteXEmail/blob/master/docs/AmazonSES.md)
+- [MailKit](https://github.com/a-patel/LiteXEmail/blob/master/docs/MailKit.md)
+- [Mailgun](https://github.com/a-patel/LiteXEmail/blob/master/docs/Mailgun.md)
 
 
 
@@ -45,10 +45,10 @@ LiteXEmail is simple yet powerful and very high-performance email message sendin
 ## [LiteXSms](https://github.com/a-patel/LiteXSms)
 LiteXSms is simple yet powerful and very high-performance sms sending mechanism and incorporating both synchronous and asynchronous usage with some advanced usages which can help us to handle sending sms more easier!
 
-- [Twilio](https://github.com/a-patel/LiteXSms/docs/Twilio.md)
-- [Plivo](https://github.com/a-patel/LiteXSms/docs/Plivo.md)
-- [Nexmo](https://github.com/a-patel/LiteXSms/docs/Nexmo.md)
-- [Sinch](https://github.com/a-patel/LiteXSms/docs/Sinch.md)
+- [Twilio](https://github.com/a-patel/LiteXSms/blob/master/docs/Twilio.md)
+- [Plivo](https://github.com/a-patel/LiteXSms/blob/master/docs/Plivo.md)
+- [Nexmo](https://github.com/a-patel/LiteXSms/blob/master/docs/Nexmo.md)
+- [Sinch](https://github.com/a-patel/LiteXSms/blob/master/docs/Sinch.md)
 
 
 
@@ -56,20 +56,20 @@ LiteXSms is simple yet powerful and very high-performance sms sending mechanism 
 ## [LiteXHealthChecks](https://github.com/a-patel/LiteXHealthChecks)
 LiteXHealthChecks is very small yet powerful and high-performance library used to check the status of a component in the application, such as a backend service, database or some internal state.
 
-- [Amazon S3](https://github.com/a-patel/LiteXHealthChecks/docs/AmazonS3.md)
-- [Azure KeyVault](https://github.com/a-patel/LiteXHealthChecks/docs/AzureKeyVault.md)
-- [Azure ServiceBus](https://github.com/a-patel/LiteXHealthChecks/docs/AzureServiceBus.md)
-- [Azure Blob Storage](https://github.com/a-patel/LiteXHealthChecks/docs/AzureBlobStorage.md)
-- [Azure File Storage](https://github.com/a-patel/LiteXHealthChecks/docs/AzureFileStorage.md)
-- [Azure Queue Storage](https://github.com/a-patel/LiteXHealthChecks/docs/AzureQueueStorage.md)
-- [CosmosDB](https://github.com/a-patel/LiteXHealthChecks/docs/CosmosDB.md)
-- [MongoDB](https://github.com/a-patel/LiteXHealthChecks/docs/MongoDB.md)
-- [MySql](https://github.com/a-patel/LiteXHealthChecks/docs/MySql.md)
-- [MariaDB](https://github.com/a-patel/LiteXHealthChecks/docs/MariaDB.md)
-- [PostgreSql](https://github.com/a-patel/LiteXHealthChecks/docs/PostgreSql.md)
-- [DynamoDB](https://github.com/a-patel/LiteXHealthChecks/docs/DynamoDB.md)
-- [Redis](https://github.com/a-patel/LiteXHealthChecks/docs/Redis.md)
-- [SqlServer](https://github.com/a-patel/LiteXHealthChecks/docs/SqlServer.md)
+- [Amazon S3](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/AmazonS3.md)
+- [Azure KeyVault](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/AzureKeyVault.md)
+- [Azure ServiceBus](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/AzureServiceBus.md)
+- [Azure Blob Storage](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/AzureBlobStorage.md)
+- [Azure File Storage](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/AzureFileStorage.md)
+- [Azure Queue Storage](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/AzureQueueStorage.md)
+- [CosmosDB](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/CosmosDB.md)
+- [MongoDB](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/MongoDB.md)
+- [MySql](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/MySql.md)
+- [MariaDB](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/MariaDB.md)
+- [PostgreSql](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/PostgreSql.md)
+- [DynamoDB](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/DynamoDB.md)
+- [Redis](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/Redis.md)
+- [SqlServer](https://github.com/a-patel/LiteXHealthChecks/blob/master/docs/SqlServer.md)
 
 
 
@@ -78,11 +78,11 @@ LiteXHealthChecks is very small yet powerful and high-performance library used t
 ## [LiteXDbHelper](https://github.com/a-patel/LiteXDbHelper)
 LiteXDbHelper is simple and tiny yet powerful and very high-performance library to working with ADO.NET for different database providers in C#. This library contains useful database utilitity classes, functions and extension methods. ADO.NET wrapper specifically develop to help make life easy working with relational databases like SQLServer, MySql, PostgreSql, MariaDB, Oracle and stored procedures for .NET and .NET Core applications. This is a tiny library helps write less code, to execute queries and stored procedures against SQL Server as like any normal CLR method. It is just written for the purpose to bring a new level of ease to the developers who deal with ADO.NET for data access.
 
-- [SqlServer](https://github.com/a-patel/LiteXDbHelper/docs/SqlServer.md)
-- [MySql](https://github.com/a-patel/LiteXDbHelper/docs/MySql.md)
-- [PostgreSql](https://github.com/a-patel/LiteXDbHelper/docs/PostgreSql.md)
-- [MariaDB](https://github.com/a-patel/LiteXDbHelper/docs/MariaDB.md)
-- [Oracle](https://github.com/a-patel/LiteXDbHelper/docs/Oracle.md)
+- [SqlServer](https://github.com/a-patel/LiteXDbHelper/blob/master/docs/SqlServer.md)
+- [MySql](https://github.com/a-patel/LiteXDbHelper/blob/master/docs/MySql.md)
+- [PostgreSql](https://github.com/a-patel/LiteXDbHelper/blob/master/docs/PostgreSql.md)
+- [MariaDB](https://github.com/a-patel/LiteXDbHelper/blob/master/docs/MariaDB.md)
+- [Oracle](https://github.com/a-patel/LiteXDbHelper/blob/master/docs/Oracle.md)
 
 
 
