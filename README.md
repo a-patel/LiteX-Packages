@@ -8,10 +8,10 @@ LiteX are projects which make developers lives easier!
 LiteXStorage is simple yet powerful and very high-performance storage mechanism and incorporating both synchronous and asynchronous usage with some advanced usages of cloud storage which can help us to handle storage more easier!
 
 - [Azure](https://github.com/a-patel/LiteXStorage/docs/Azure.md)
-- [AmazonS3]((https://github.com/a-patel/LiteXStorage/docs/Amazon.md)
-- [Google Cloud]((https://github.com/a-patel/LiteXStorage/docs/Google.md)
-- [FileSystem]((https://github.com/a-patel/LiteXStorage/docs/FileSystem.md)
-- [Kvpbase]((https://github.com/a-patel/LiteXStorage/docs/Kvpbase.md)
+- [AmazonS3](https://github.com/a-patel/LiteXStorage/docs/Amazon.md)
+- [Google Cloud](https://github.com/a-patel/LiteXStorage/docs/Google.md)
+- [FileSystem](https://github.com/a-patel/LiteXStorage/docs/FileSystem.md)
+- [Kvpbase](https://github.com/a-patel/LiteXStorage/docs/Kvpbase.md)
 
 
 
